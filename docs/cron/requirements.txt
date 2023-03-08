@@ -1,2 +1,2 @@
-croniter==0.3.6
+croniter==1.0.5
 python-crontab==1.9.3
